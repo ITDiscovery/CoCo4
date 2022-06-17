@@ -1,32 +1,32 @@
-| Designator | SubSystem | Description |
-| ----------- | ----- | ----------- |
-| REG1 | P | LM79L05 |
-| IC2 | J | LM393 |
-| IC3 | J | LM348 |
-| IC17 | V | LM1889 |
-| IC28 | V | LM318N |
-| IC4 | J | 4050 |
-| IC29 | V | 4053 |
-| IC7 | C | 4069 |
+| Designator | SubSystem | Description | In Stock |
+| ----------- | ----- | ----------- | ------- |
+| REG1 | P | LM79L05 |  |
+| IC2 | J | LM393 | Digikey |
+| IC3 | J | LM348 | Digikey |
+| IC17 | V | LM1889 | |
+| IC28 | V | LM318N | Digikey |
+| IC4 | J | 4050 | Digikey |
+| IC29 | V | 4053 | Digikey |
+| IC7 | C | 4069 | Digikey |
 | IC6 | J | 4529 |
-| IC19,35 | V,R | 74LS00 |
-| IC36 | C | 74LS02 |
-| IC9,18 | V | 74LS20 |
-| IC13 | V | 74LS32 |
-| IC14,30 | V | 74LS74 |
-| IC20 | R | 74LS273 |
-| IC1,25 | C,R | 74LS244 |
-| IC24 | V | 74LS390 |
-| IC12,23 | V | 74LS393 |
-| IC31 | V | 74LS123 |
-| IC40 | C | 74LS138 |
-| IC15,16,21,22,26,27,32,33 | R | 4164 |
-| IC34,37 | R | 27C128 |
-| IC11 | J | 6551 |
-| IC5,8 | C | 6821 |
-| IC10 | V | 6847 |
-| IC38 | C | MC6809E |
-| IC39 | C | SN74LS783/MC6883/SN74LS785 |
+| IC19,35 | V,R | 74LS00 | Y |
+| IC36 | C | 74LS02 | Digikey |
+| IC9,18 | V | 74LS20 | Digikey |
+| IC13 | V |  74LS32 | Y |
+| IC14,30 | V | 74LS74 | Y |
+| IC20 | R | 74LS273 | Digikey |
+| IC1,25 | C,R | 74LS244 | Y |
+| IC24 | V | 74LS390 | Digikey |
+| IC12,23 | V | 74LS393 | Digikey |
+| IC31 | V | 74LS123 | Digikey |
+| IC40 | C | 74LS138 | Y |
+| IC15,16,21,22,26,27,32,33 | R | 4164 | Y |
+| IC34,37 | R | 27C128 | Y |
+| IC11 | J | 6551 | Y |
+| IC5,8 | C | 6821 | Y |
+| IC10 | V | 6847 | Y |
+| IC38 | C | MC6809E | Y |
+| IC39 | C | SN74LS783/MC6883/SN74LS785 | Y |
 | TR1 | J | BC182 |
 | TR2,3 | V | 2N2369 |
 | TR4 | V | BC212 |
