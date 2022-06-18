@@ -1,35 +1,38 @@
 | Designator | SubSystem | Description | In Stock |
 | ----------- | ----- | ----------- | ------- |
-| REG1 | P | LM79L05 |  |
-| IC2 | J | LM393 | Digikey |
-| IC3 | J | LM348 | Digikey |
+| REG1 | P | LM79L05 | 296-52656-1-ND |
+| IC2 | J | LM393 | 296-1398-5-ND |
+| IC3 | J | LM348 | 296-12849-5-ND |
 | IC17 | V | LM1889 | |
-| IC28 | V | LM318N | Digikey |
-| IC4 | J | 4050 | Digikey |
-| IC29 | V | 4053 | Digikey |
-| IC7 | C | 4069 | Digikey |
-| IC6 | J | 4529 |
-| IC19,35 | V,R | 74LS00 | Y |
-| IC36 | C | 74LS02 | Digikey |
-| IC9,18 | V | 74LS20 | Digikey |
-| IC13 | V |  74LS32 | Y |
-| IC14,30 | V | 74LS74 | Y |
-| IC20 | R | 74LS273 | Digikey |
+| IC28 | V | LM318N |  296-9539-5-ND |
+| IC4 | J | 4050 | 296-2056-ND |
+| IC29 | V | 4053 | 296-2059-ND |
+| IC7 | C | 4069 | 296-3518-5-ND |
+| IC6 | J | 4529 | |
+| IC19,35 | V,R | 74LS00 | 296-2081-5-ND |
+| IC36 | C | 74LS02 | 296-2082-5-ND |
+| IC9,18 | V | 74LS20 | 296-2135-5-ND |
+| IC13 | V |  74HLS32 | 296-2112-5-ND |
+| IC14,30 | V | 74LS74 | 296-2132-5-ND |
+| IC20 | R | 74LS273 | 296-1613-5-ND |
 | IC1,25 | C,R | 74LS244 | Y |
-| IC24 | V | 74LS390 | Digikey |
-| IC12,23 | V | 74LS393 | Digikey |
-| IC31 | V | 74LS123 | Digikey |
-| IC40 | C | 74LS138 | Y |
-| IC15,16,21,22,26,27,32,33 | R | 4164 | Y |
-| IC34,37 | R | 27C128 | Y |
-| IC11 | J | 6551 | Y |
-| IC5,8 | C | 6821 | Y |
-| IC10 | V | 6847 | Y |
-| IC38 | C | MC6809E | Y |
-| IC39 | C | SN74LS783/MC6883/SN74LS785 | Y |
-| TR1 | J | BC182 |
-| TR2,3 | V | 2N2369 |
-| TR4 | V | BC212 |
+| IC24 | V | 74LS390 | 296-33152-5-ND |
+| IC12,23 | V | 74LS393 | 296-2116-5-ND |
+| IC31 | V | 74LS123 | 296-2088-5-ND |
+| IC40 | C | 74LS138 | 296-2091-5-ND |
+| IC15,16,21,22,26,27,32,33 | R | 4164 | eBay |
+| IC34,37 | R | 27C128 | eBay |
+| IC11 | J | MC6551 | eBay |
+| IC5,8 | C | MC6821 | eBay |
+| IC10 | V | MC6847 | eBay |
+| IC38 | C | MC6809E | eBay |
+| IC39 | C | SN74LS783/MC6883/SN74LS785 | eBay |
+| TR1 | J | BC182 - Bipolar (BJT) Transistor NPN 50V 100mA 200MHz 350mW | BC182OS-ND |
+| TR2,3 | V | 2N2369 - Bipolar (BJT) Transistor NPN 15V 200mA 360mW | 2N2369-ND |
+| TR4 | V | BC212 - Bipolar (BJT) Transistor PNP 50V 300mA 625mW | 2156-BC212-FS-ND |
+| D2,3 | J | BZX61 Zenner | |
+| D1,4,5,6,7,8,9,D10,12,13,14,15,16,17,19 | C | 1N914 | 1N914-T50ACT-ND |
+| D18,20 | C | 1N3592 | |
 | R43 | V | 10 |
 | R73-83 | C | 22 |
 | R8,12 | J | 47 |
@@ -66,9 +69,6 @@
 | R34 | J | 330K |
 | R22 | J | 1.5M |
 | VR1 | V | 10K POT |
-| D2,3 | J | BZX61 Zenner |
-| D1,4,5,6,7,8,9,D10,12,13,14,15,16,17,19 | C | 1N914 |
-| D18,20 | C | 1N3592 |
 | C24,25 | C | 1uF Electro
 | C58 | C | 4.7uF Electro |
 | C19,23 | C | 10uF Electro |
@@ -95,3 +95,6 @@
 | XL3 | C | 14.218MHz | 
 | SW1 | C | Reset Switch |
 | RLA1 | J | SPDT Relay | 
+|  | O | Cartridge Conn | S9672-ND |
+
+*Note: I'm subbing in 74HCTs for LS parts. Not seeing this will be an issue, but otherwise will go with ALS.
