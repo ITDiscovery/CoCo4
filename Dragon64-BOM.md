@@ -31,7 +31,7 @@
 | TR2,3 | V | 2N2369 - Bipolar (BJT) Transistor NPN 15V 200mA 360mW | 2N2369-ND |
 | TR4 | V | BC212 - Bipolar (BJT) Transistor PNP 50V 300mA 625mW | 2156-BC212-FS-ND |
 | D2,3 | J | BZX61 Zenner | |
-| D1,4,5,6,7,8,9,D10,12,13,14,15,16,17,19 | C | 1N914 | 1N914-T50ACT-ND |
+| D1,4,5,6,7,8,9,D10,12,13,14,15,16,17,19 | C | 1N914/1N4148 | 1N914-T50ACT-ND |
 | D18,20 | C | 1N3592 | |
 | R43 | V | 10 |
 | R73-83 | C | 22 |
