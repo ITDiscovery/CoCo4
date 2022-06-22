@@ -1,5 +1,5 @@
 |	Name | 	Designator | Description | Digikey |
-| ----------- | ----- | ----------- | ------- |
+| ----------- | ----- | ----------- | ------------ |
 | CD4529 | 	U3 | IC DUAL 4 SGL CHANNEL DATA 16DIP | CD4529BCN-ND |
 | CD4050 | 	U12 | Buffer, Non-Inverting 6 Element 1 Bit per Element Push-Pull Output 16-PDIP| 296-2056-ND |
 | LM393N | 	U13 | Comparator Differential CMOS, MOS, Open-Drain, TTL 8-PDIP | 296-1398-5-ND |
