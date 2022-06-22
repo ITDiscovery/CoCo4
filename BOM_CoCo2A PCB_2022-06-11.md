@@ -1,7 +1,7 @@
 |	Name | 	Designator | Description | Digikey |
 | ----------- | ----- | ----------- | ------- |
-| 4529 | 	U3 | 	1 | 
-| 4050 | 	U12 | Buffer, Non-Inverting 6 Element 1 Bit per Element Push-Pull Output 16-PDIP| 296-2056-ND |
+| CD4529 | 	U3 | IC DUAL 4 SGL CHANNEL DATA 16DIP | CD4529BCN-ND |
+| CD4050 | 	U12 | Buffer, Non-Inverting 6 Element 1 Bit per Element Push-Pull Output 16-PDIP| 296-2056-ND |
 | LM393N | 	U13 | Comparator Differential CMOS, MOS, Open-Drain, TTL 8-PDIP | 296-1398-5-ND |
 | 2N4403 | 	Q1A | BJT Transistor PNP 40V 600mA 200MHz 625mW | 2721-2N4403-ND |
 | 2N3904 | 	Q2 | BJT Transistor NPN 40V 200mA 300MHz 625mW | 2N3904FS-ND |
