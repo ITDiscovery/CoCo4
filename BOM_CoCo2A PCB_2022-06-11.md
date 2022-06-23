@@ -1,6 +1,6 @@
 |	Name | 	Designator | Description | Digikey |
 | ----------- | ----- | ----------- | ------------ |
-| CD4529 | 	U3 | IC DUAL 4 SGL CHANNEL DATA 16DIP | CD4529BCN-ND |
+| CD4529 | 	U3 | IC DUAL 4 SGL CHANNEL DATA 16DIP | Jameco 2288847 |
 | CD4050 | 	U12 | Buffer, Non-Inverting 6 Element 1 Bit per Element Push-Pull Output 16-PDIP| 296-2056-ND |
 | LM393N | 	U13 | Comparator Differential CMOS, MOS, Open-Drain, TTL 8-PDIP | 296-1398-5-ND |
 | 2N4403 | 	Q1A | BJT Transistor PNP 40V 600mA 200MHz 625mW | 2721-2N4403-ND |
@@ -31,12 +31,12 @@
 | 14.31818MHz Xtal 20pF |	Y1 | 1 | XC1757-ND |
 | .1u |	C4,C1,C5A,C15,C19,C21,C24,C25,C28,C29,C30,C32,C33,C34,C36A,C45,C47,C50A,C58 |	x19 | BC1148CT-ND | 
 | .02u | C13,C14,C16,C17,C22,C27 | x6 | |
-| .001u"	"C26"	"1"
+| .001u | C26 | 1 |  |
 | 22n |	C1A,C4A,C20A | x3 |  | 
 | 10n |	C2A | 1 | |
 | 100u | C12A | 1 | |
-"28"	"33p"	"C37,C60"	"2"
-"29"	"56p"	"C38"	"1"
+| 33p |	C37,C60 |	2 |
+| 56p |	C38 |	1 | |
 "30"	"9-35pF"	"C43"	"1"
 "31"	"39pF"	"C44"	"1"
 "32"	"10u"	"C46"	"1"
