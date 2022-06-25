@@ -3,17 +3,6 @@
 | CD4529 | 	U3 | IC DUAL 4 SGL CHANNEL DATA 16DIP | Jameco 2288847 |
 | CD4050 | 	U12 | Buffer, Non-Inverting 6 Element 1 Bit per Element Push-Pull Output 16-PDIP| 296-2056-ND |
 | LM393N | 	U13 | Comparator Differential CMOS, MOS, Open-Drain, TTL 8-PDIP | 296-1398-5-ND |
-| 2N4403 | 	Q1A | BJT Transistor PNP 40V 600mA 200MHz 625mW | 2721-2N4403-ND |
-| 2N3904 | 	Q2 | BJT Transistor NPN 40V 200mA 300MHz 625mW | 2N3904FS-ND |
-| 2N4401 |  Q2A | BJT Transistor NPN 40V 600mA 250MHz 625mW | 2N4401-ND |
-| Joystick Conn | JK1, JK2 | 5 Pin DIN Female PCB Mount | 2092-KCDX-5S-S2-ND |
-| PJ-320 | AVOUT | uxcell 3.5 mm Audio Jack Connector PCB Mount Female Socket	| Amazon |
-| SDCard | J9 | 8 Pos-microSD™ Surface Mount | 2408-PJS008U-0002TR-ND |
-| DC Connector |	DC1 | Power Barrel Connector Jack 2.55mm ID (0.100"), 5.50mm OD (0.217") Through Hole, Right Angle | 2073-DCJ250-10-A-K1-K-ND |
-| Keyboard Connector | J5 | 16 Pos FFC/FPC Connector, Vertical 1 Sided 0.100" | A144434-ND |
-| Edge Card | J6 | 40 Po Female Conn Dual Edge 2.54mm | S9672-ND |
-| Reset Switch | S2 | SPST-NO 6mmx6mm | 450-1804-ND | 
-| 4x DIP Switch | SW2A | DIP Switch SPST 4 Pos| 2449-KG04E-ND |
 | 5V Regulator 1A | U1 | DC DC Converter 5V,1.5A 6.5V-18V Input | 102-2171-ND (0 Stock) |
 | MC6821 | U2 |	1 | eBay |
 | MC6822 | U7 | 1 | eBay |
@@ -62,7 +51,18 @@
 | 160K | R33 | 1 | |
 | 330K | R34 | 1 | |
 |4.7K| RP1,RP3| Resistor Pack Common Gnd| |
+| 2N4403 | 	Q1A | BJT Transistor PNP 40V 600mA 200MHz 625mW | 2721-2N4403-ND |
+| 2N3904 | 	Q2 | BJT Transistor NPN 40V 200mA 300MHz 625mW | 2N3904FS-ND |
+| 2N4401 |  Q2A | BJT Transistor NPN 40V 600mA 250MHz 625mW | 2N4401-ND |
 |1N4002|D1A |x1 |
 |1N4148|D10,D11,D12|x3| |
 |1KF20-04|CR7,CR8,CR13|	x3 | |
 | Ferrite Bead RH3.5X0.8X9P52 | FB4 | 1 | |
+| Joystick Conn | JK1, JK2 | 5 Pin DIN Female PCB Mount | 2092-KCDX-5S-S2-ND |
+| SDCard | J9 | 8 Pos-microSD™ Surface Mount | 2408-PJS008U-0002TR-ND |
+| DC Connector |	DC1 | Power Barrel Connector Jack 2.55mm ID (0.100"), 5.50mm OD (0.217") Through Hole, Right Angle | 2073-DCJ250-10-A-K1-K-ND |
+| Keyboard Connector | J5 | 16 Pos FFC/FPC Connector, Vertical 1 Sided 0.100" | A144434-ND |
+| Edge Card | J6 | 40 Po Female Conn Dual Edge 2.54mm | S9672-ND |
+| Reset Switch | S2 | SPST-NO 6mmx6mm | 450-1804-ND | 
+| 4x DIP Switch | SW2A | DIP Switch SPST 4 Pos| 2449-KG04E-ND |
+| PJ-320 | AVOUT | uxcell 3.5 mm Audio Jack Connector PCB Mount Female Socket	| Amazon |
