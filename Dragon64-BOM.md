@@ -27,8 +27,8 @@
 | IC10 | V | MC6847 | eBay |
 | IC38 | C | MC6809E | eBay |
 | IC39 | C | SN74LS783/MC6883/SN74LS785 | eBay |
-| TR1 | J | BC182 - Bipolar (BJT) Transistor NPN 50V 100mA 200MHz 350mW | BC182OS-ND |
-| TR2,3 | V | 2N2369 - Bipolar (BJT) Transistor NPN 15V 200mA 360mW | 2N2369-ND |
+| TR1 | J | BC182 - Bipolar (BJT) Transistor NPN 50V 100mA 200MHz 350mW | Trying BC337 |
+| TR2,3 | V | 2N2369 - Bipolar (BJT) Transistor NPN 15V 200mA 360mW | Trying 2N2222 |
 | TR4 | V | BC212 - Bipolar (BJT) Transistor PNP 50V 300mA 625mW | 2156-BC212-FS-ND |
 | D2,3 | J | BZX61 Zenner | |
 | D1,4,5,6,7,8,9, D10,11,12,13,14,15,16,17,19 | C | 1N914/1N4148 | 1N914-T50ACT-ND |
