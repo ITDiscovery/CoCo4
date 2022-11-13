@@ -9,3 +9,7 @@ The design goal was to fit a Color Computer 2 case and use the non-vendor specif
 - I've added a place for an SDCard socket, which could be connected to Serial I/O or the Cassette lines on the PIA.
 - I've removed the Cassette port.
 One thing I want to do with a future version is to implement bank switching that is compatible to a CoCo3 or whatever can be done to make 2Mb of RAM available to OS/9 or NitrOS-9.
+
+
+https://gitlab.com/sixxie/dragon64
+https://github.com/danwerner21/Dragon64
